@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Hartley Homestead]]></title>
+        <description><![CDATA[The Hartley Homestead]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 08 Jun 2016 05:59:57 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What is the Hartley Homestead?]]></title>
+            <description><![CDATA[<article><h1>What is the Hartley Homestead?</h1><p>Well, officially--nothing yet. But do hold your breath because soon The Hartley Homestead will be born as we welcome two beautiful blue-eyed white English angora rabbits into our lives. First comes love, then comes bunnies, then comes you, lonely and hoping for one of our buns to fill the gap! We're hoping this will be the start of a beautiful new chapter in our lives, one filled with eco-sustainability and fluff. </p></article>]]></description>
+            <link>undefinedwhat-is-the-hartley-homestead/index.html</link>
+            <guid isPermaLink="false">98f47d6e-854e-4685-bb61-b66e478a63d1</guid>
+            <pubDate>Wed, 08 Jun 2016 05:59:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
