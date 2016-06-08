@@ -1,0 +1,28 @@
+name: The Hartley Homestead
+favicon: null
+layout_spectrum: 0.7602224899455905
+typography_spectrum: 0.6067766777705401
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.19556328700855374
+  lightness: 0.05316566047258675
+  saturation: 0.5578438462689519
+  rhythmicContrast: 0.7041336330585182
+purpose: []
